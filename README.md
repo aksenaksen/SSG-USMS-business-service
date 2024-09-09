@@ -9,5 +9,6 @@
     - sms
     - email
   - 알림서비스
+    - 앱 알림(firebase)
 # 아키텍처
 ![SSGproject](https://github.com/user-attachments/assets/5fda79b3-27bd-4f12-8870-cbbaec89eab3)
